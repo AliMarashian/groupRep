@@ -3,6 +3,6 @@ public class Main {
         System.out.println("Hello World :(");
         System.out.println("Aleike Salam");
         int x;
-        x = 0;
+        x = 45;
     }
 }
